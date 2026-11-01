@@ -16,9 +16,9 @@
     <div class="footer-container">
         <div class="footer-contact">
             <h3>Contact Info</h3>
-            <p>Email: info@furnitureshop.com</p>
-            <p>Phone: +254 712 345 678</p>
-            <p>Location: Nairobi, Kenya</p>
+            <p>Email: amoskemboi276@gmail.com</p>
+            <p>Phone: +254 708 004 723</p>
+            <p>Location: Bomet, Kenya</p>
         </div>
     </div>
 
